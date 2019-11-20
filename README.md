@@ -10,7 +10,7 @@ Example: https://greggman.github.io/better-unity-webgl-template/
 
 ## Instructions
 
-Downloand and add in [this unity package](https://github.com/greggman/better-unity-webgl-template/releases/latest)
+Download and add [this unity package](https://github.com/greggman/better-unity-webgl-template/releases/latest)
 into your project. Then pick `Edit->Project Settings->Player`, in the WebGL tab
 under *Resolution and Presentation* pick "BetterTemplate".
 
